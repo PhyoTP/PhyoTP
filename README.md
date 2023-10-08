@@ -1,3 +1,4 @@
+![Banner](https://github.com/PhyoTP/PhyoTP/blob/main/New%20Channel%20Banner.png)
 # Hi there 👋
 **I am Phyo Thet Pai, a student developer.**
 
