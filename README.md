@@ -1,4 +1,4 @@
-![Banner](https://phyotp.github.io/The%20Average%20Pi%20(1).png)
+![Banner](https://github.com/PhyoTP/PhyoTP.github.io/blob/main/The%20Average%20Pi%20(1).png?raw=true)
 # Hi there 👋
 **I am Phyo Thet Pai, a student developer.**
 
