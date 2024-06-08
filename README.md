@@ -15,3 +15,6 @@
 ![](https://raw.githubusercontent.com/PhyoTP/githubstats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/PhyoTP/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/PhyoTP/githubstats/master/generated/overview.svg#gh-light-mode-only)
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url("https://web-cdn.rimac-automobili.com/wp-content/uploads/2021/05/31101405/intro_slider_07_optimised.jpg");]{x0000}$}
