@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://phyotp.github.io) and [ArcOnline](https://phyotp.github.io/ArcOnline)
 - 🌱 I’m currently learning Angular and Lua
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with Luau
 - 📫 How to reach me: phyo.thet.pai@sji.edu.sg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created [Academ](https://app.swiftinsg.org/Academ), an iOS mark tracker app.
